@@ -1,10 +1,3 @@
-//
-//  main.c
-//  NAME
-//
-//  Created by apple on 18/02/23.
-//
-
 #include <stdio.h>
 
 int main()
